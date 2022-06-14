@@ -4,7 +4,7 @@ import javax.persistence.GeneratedValue
 import javax.persistence.Id
 import javax.persistence.Entity
 
-@Entity(name="account")
+@Entity(name = "account")
 data class Account (
     @Id @GeneratedValue
     var id: Long? = null,
