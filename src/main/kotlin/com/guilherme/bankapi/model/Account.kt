@@ -1,4 +1,4 @@
-package com.guilherme.bankapi
+package com.guilherme.bankapi.model
 
 import javax.persistence.GeneratedValue
 import javax.persistence.Id
